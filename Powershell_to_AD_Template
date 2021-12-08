@@ -1,4 +1,3 @@
-<!DOCTYPE Shell>
 param(
 
     [Parameter(ValueFromPipeline=$true,HelpMessage="Enter CSV path(s)")]
