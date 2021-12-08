@@ -57,7 +57,6 @@ foreach ($User in $ADUsers)
     $jobtitle   = $User.jobtitle
     $company    = $User.company
     $department = $User.department
-    $Password = $User.Password
 
 
 	#Check to see if the user already exists in AD
