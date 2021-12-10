@@ -47,16 +47,16 @@ foreach ($User in $ADUsers)
 	$Firstname 	= $User.firstname
 	$Lastname 	= $User.lastname
 	$OU 		= $User.ou #This field refers to the OU the user account is to be created in
-    $email      = $User.email
-    $streetaddress = $User.streetaddress
-    $city       = $User.city
-    $zipcode    = $User.zipcode
-    $state      = $User.state
-    $country    = $User.country
-    $telephone  = $User.telephone
-    $jobtitle   = $User.jobtitle
-    $company    = $User.company
-    $department = $User.department
+    	$email      = $User.email
+	$streetaddress = $User.streetaddress
+	$city       = $User.city
+	$zipcode    = $User.zipcode
+	$state      = $User.state
+	$country    = $User.country
+	$telephone  = $User.telephone
+	$jobtitle   = $User.jobtitle
+    	$company    = $User.company
+	$department = $User.department
 
 
 	#Check to see if the user already exists in AD
