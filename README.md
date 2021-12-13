@@ -20,3 +20,15 @@ A script I created that allowed me to mass upload people to Active Directory for
 This script will fully enumerate ACL's in current directory.
 
 [Script template]()
+
+## Checking AD User
+
+This script simply checks whether a user already exists in Active Directory.
+
+[Script template](https://github.com/TristenMaetzold/Powershell_Repository/blob/246e39cc2318aecfe4eeef3f431a7ed2013ba562/checkuser.ps1)
+
+## IP Config, but more!
+
+Just a packaged version of useful data from IP Config
+
+[Script template](https://github.com/TristenMaetzold/Powershell_Repository/blob/246e39cc2318aecfe4eeef3f431a7ed2013ba562/ipconfigplus.ps1)
