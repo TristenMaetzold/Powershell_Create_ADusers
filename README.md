@@ -1,5 +1,6 @@
-# Powershell_Create_ADusers
-A script I created that allowed me to mass upload people to Active Directory for my work.
+# Powershell Script Dropoff
+
+This is a directory for all of my public PS scripts I have made and used! Feel free to use any of them, and contact me for questions.
 
 ## Table of Contents
 
