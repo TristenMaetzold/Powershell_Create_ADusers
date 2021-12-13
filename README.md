@@ -6,12 +6,14 @@ This is a directory for all of my public PS scripts I have made and used! Feel f
 
  - Mass creating AD Users from a CSV
  - Enumerating ACL's
+ - Check Active Directory for User
+ - Better IP Config
 
 ## Mass creating AD Users from a CSV
 
 A script I created that allowed me to mass upload people to Active Directory for my work.
 
-[You may freely utilize this script template.](https://github.com/TristenMaetzold/Powershell_Create_ADusers/blob/6b64f1aa8c847d673c9da01ee8d5a45a54e55af7/NewUser-PStoAD.ps1)
+[Script template.](https://github.com/TristenMaetzold/Powershell_Create_ADusers/blob/6b64f1aa8c847d673c9da01ee8d5a45a54e55af7/NewUser-PStoAD.ps1)
 
 [This is the CSV template that was used to relate the data fields to a working variable. Feel free to edit this to your hearts content for your needs.](https://github.com/TristenMaetzold/Powershell_Create_ADusers/blob/1c4fced1eec7137a79c16aecfa5cd5a9e75dba6a/PS%20to%20AD%20Template%20Sheet1.csv)
 
@@ -19,7 +21,7 @@ A script I created that allowed me to mass upload people to Active Directory for
 
 This script will fully enumerate ACL's in current directory.
 
-[Script template]()
+[Script template](https://github.com/TristenMaetzold/Powershell_Repository/blob/333d5f7b4d135396b5f75e7f2de571ee502e74bb/enum_acls.ps1)
 
 ## Checking AD User
 
